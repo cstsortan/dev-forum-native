@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "975027577006",
+    "firebase_url": "https://dev-forum-45f8b.firebaseio.com",
+    "project_id": "dev-forum-45f8b",
+    "storage_bucket": "dev-forum-45f8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975027577006:android:d1be56b9cb78b715",
+        "android_client_info": {
+          "package_name": "com.d4vinci.devforumnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975027577006-qi4o5qo01uflacv6osvo42appm6jmg2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVNO1-NjM1w0gZYKJSTJ1C0RxMFxk6u5k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
